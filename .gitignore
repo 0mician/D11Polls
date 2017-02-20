@@ -1,0 +1,22 @@
+# emacs specific files
+
+auto-save-list
+custom.el
+url/
+.org-id-locations
+\#*
+org-mode-config.el
+*~
+.#*
+\#*\#
+*.log
+org-clock-save.el
+emacs-config.el
+
+# folder
+venv/
+__pycache__/
+
+# other
+db.sqlite3
+
